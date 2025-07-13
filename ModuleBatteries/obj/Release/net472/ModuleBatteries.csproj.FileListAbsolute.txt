@@ -1,0 +1,10 @@
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/ModuleBatteries /obj/Release/net472/ModuleBatteries.csproj.AssemblyReference.cache
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/ModuleBatteries /obj/Release/net472/ModuleBatteries.GeneratedMSBuildEditorConfig.editorconfig
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/ModuleBatteries /obj/Release/net472/ModuleBatteries.AssemblyInfoInputs.cache
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/ModuleBatteries /obj/Release/net472/ModuleBatteries.AssemblyInfo.cs
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/ModuleBatteries /obj/Release/net472/ModuleBatteries.csproj.CoreCompileInputs.cache
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/ModuleBatteries /bin/Release/net472/ModuleBatteries.dll
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/ModuleBatteries /bin/Release/net472/ModuleBatteries.pdb
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/ModuleBatteries /obj/Release/net472/ModuleBa.A48683AD.Up2Date
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/ModuleBatteries /obj/Release/net472/ModuleBatteries.dll
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/ModuleBatteries /obj/Release/net472/ModuleBatteries.pdb

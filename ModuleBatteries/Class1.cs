@@ -31,13 +31,6 @@ namespace ModuleBatteries
             Logger.LogInfo("[ModuleBatteries] Batteries registered successfully.");
         }
 
-        private void Start()
-        {
-            CoroutineHost.StartCoroutine(DisableMonitorScreen());
-            CoroutineHost.StartCoroutine(ApplyOverlayToAllMonitors());
-           
-        }
-
         private void AddBatteryChargerCompatibility(TechType techType)
         {
             if (!BatteryCharger.compatibleTech.Contains(techType))

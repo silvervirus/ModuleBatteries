@@ -5,7 +5,6 @@ using ModuleBatteries.Items;
 using ModuleBatteries.Patches;
 using UWE;
 using static ModuleBatteries.utilities.GameObjectExtensions;
-using static ModuleBatteries.text.MonitorOverlayManager;
 
 namespace ModuleBatteries
 {
